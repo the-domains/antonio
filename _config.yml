@@ -1,7 +1,7 @@
 name: antonio
 favicon: null
-layout_spectrum: 0.7904224889352918
-typography_spectrum: 0.6294238676782697
+layout_spectrum: 0.17043
+typography_spectrum: 0.51642
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.4254819031339139
-  lightness: 0.8998080189339817
-  saturation: 0.08238243125379086
-  rhythmicContrast: 0.6208730798680335
+    - '#060409'
+    - '#c5b49a'
+    - '#ebdcc9'
+    - '#522a2b'
+    - '#a6656d'
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
